@@ -1,0 +1,21 @@
+﻿{
+    "latestVersion":  "1.0.1",
+    "gitRawBaseUrl":  "https://raw.githubusercontent.com/uaexstorm/SPOPatches/main",
+    "gitRawMaxBytes":  99614720,
+    "filesBaseUrl":  "https://github.com/uaexstorm/SPOPatches/releases/download/cdn",
+    "files":  [
+                  {
+                      "path":  ".gitignore",
+                      "sha256":  "117526F198C49DB8B97BF112C04A2BF3987A860ADED3E5A7623E50B41E1ABE1F",
+                      "size":  100,
+                      "url":  "https://raw.githubusercontent.com/uaexstorm/SPOPatches/main/.gitignore"
+                  },
+                  {
+                      "path":  "scripts/table/iteminfo.bin",
+                      "sha256":  "48AC82E0A1B1C1E6AF3B272F214C7FE5E6DAEE6AAC4B759CDAA33E1E2F867ADA",
+                      "size":  30146572,
+                      "url":  "https://raw.githubusercontent.com/uaexstorm/SPOPatches/main/scripts/table/iteminfo.bin"
+                  }
+              ],
+    "news":  "Update 1.0.1"
+}
